@@ -11,7 +11,7 @@ By doing that, the user will only have to go to a Tunisian Post branch (If neede
 
 ## How can i see the project ?
 
-After getting the project on your machine open the folders location in your command line tool of your choice (or in the terminal in VS Code) and type the command "npm start"
+After getting the project on your machine open the folders location in your command line tool of your choice (or in the terminal in VS Code) and type the command `npm install` then type the command `npm start`
 
 ### `npm start`
 
