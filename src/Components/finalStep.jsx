@@ -72,7 +72,7 @@ export class FinalStep extends React.Component {
                                         <div class="d-grid gap-2 d-block">
                                             <button className="w-100 btn btn btn-outline-primary" type="submit" onClick={this.back}>previous</button>
                                             <Link to="/UDB">
-                                            <button className="w-100 btn btn btn-primary" type="submit" >Confirm</button>
+                                            <button className="w-100 btn btn btn-primary" type="submit" >Register</button>
                                             </Link>
                                         </div>
 									</div>
